@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|c:\\users\\aysima\\source\\repos\\yazilimyapimiprojeodevi\\ayar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:ayar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\men\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:men\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\men\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:men\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\s\u00F6zl\u00FCk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:s\u00F6zl\u00FCk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\bulmaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:bulmaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\bulmaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:bulmaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\kelimeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:kelimeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|c:\\users\\aysima\\source\\repos\\yazilimyapimiprojeodevi\\ayar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:ayar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\S\u00F6zl\u00FCk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:S\u00F6zl\u00FCk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8008D039-3D43-466E-90E4-0A45B40AF90E}|..\\..\\..\\Desktop\\yazilimYapimiProjeOdevi\\yazilimYapimiProjeOdevi\\yazilimYapimiProjeAy\u015Fe,.csproj|c:\\users\\aysima\\desktop\\yazilimyapimiprojeodevi\\yazilimyapimiprojeodevi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:Rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Kelimeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:Kelimeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\kelimeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:kelimeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\KelimeEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:KelimeEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\bulmaca.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:bulmaca.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435D890A-015F-40CA-942C-9DC59D7145E5}|..\\..\\..\\Desktop\\yazilimyapimiprojem\\yazilimyapimiprojem\\yazilimyapimiprojem.csproj|c:\\users\\aysima\\desktop\\yazilimyapimiprojem\\yazilimyapimiprojem\\bulmaca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\SecurityHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:SecurityHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\KayitOl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F3C52E-D9CD-4EEA-9478-3765589FFA7A}|YazilimYapimiProjeOdevi.csproj|solutionrelative:KayitOl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:37:43.874Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Men\u00FC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Men\u00FC.cs",
+              "RelativeDocumentMoniker": "Men\u00FC.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Men\u00FC.cs [Design]",
+              "RelativeToolTip": "Men\u00FC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:47:52.376Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kelimeler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Kelimeler.cs",
+              "RelativeDocumentMoniker": "Kelimeler.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Kelimeler.cs [Design]",
+              "RelativeToolTip": "Kelimeler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:20:15.59Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "S\u00F6zl\u00FCk.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\S\u00F6zl\u00FCk.cs",
+              "RelativeDocumentMoniker": "S\u00F6zl\u00FCk.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\S\u00F6zl\u00FCk.cs [Design]",
+              "RelativeToolTip": "S\u00F6zl\u00FCk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:23:55.398Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KelimeEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\KelimeEkle.cs",
+              "RelativeDocumentMoniker": "KelimeEkle.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\KelimeEkle.cs [Design]",
+              "RelativeToolTip": "KelimeEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:38:53.581Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rapor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Rapor.cs",
+              "RelativeDocumentMoniker": "Rapor.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Rapor.cs [Design]",
+              "RelativeToolTip": "Rapor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:12:03.218Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Rapor.cs",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Rapor.cs",
+              "RelativeDocumentMoniker": "Rapor.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Rapor.cs",
+              "RelativeToolTip": "Rapor.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwFEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:25:39.649Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Test.cs",
+              "RelativeDocumentMoniker": "Test.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Test.cs",
+              "RelativeToolTip": "Test.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:23:58.766Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Test.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Test.cs",
+              "RelativeDocumentMoniker": "Test.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Test.cs [Design]",
+              "RelativeToolTip": "Test.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:23:53.921Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bulmaca.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Bulmaca.cs",
+              "RelativeDocumentMoniker": "Bulmaca.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Bulmaca.cs [Design]",
+              "RelativeToolTip": "Bulmaca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:32:39.791Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ayar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Ayar.cs",
+              "RelativeDocumentMoniker": "Ayar.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Ayar.cs [Design]",
+              "RelativeToolTip": "Ayar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:19:12.956Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ayar.cs",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Ayar.cs",
+              "RelativeDocumentMoniker": "Ayar.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Ayar.cs",
+              "RelativeToolTip": "Ayar.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:20:24.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:18:30.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Men\u00FC.cs",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Men\u00FC.cs",
+              "RelativeDocumentMoniker": "Men\u00FC.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Men\u00FC.cs",
+              "RelativeToolTip": "Men\u00FC.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:12:32.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bulmaca.cs",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Bulmaca.cs",
+              "RelativeDocumentMoniker": "Bulmaca.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Bulmaca.cs",
+              "RelativeToolTip": "Bulmaca.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAkwJsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:32:11.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "S\u00F6zl\u00FCk.cs",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\S\u00F6zl\u00FCk.cs",
+              "RelativeDocumentMoniker": "S\u00F6zl\u00FCk.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\S\u00F6zl\u00FCk.cs",
+              "RelativeToolTip": "S\u00F6zl\u00FCk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:24:41.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Kelimeler.cs",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Kelimeler.cs",
+              "RelativeDocumentMoniker": "Kelimeler.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Kelimeler.cs",
+              "RelativeToolTip": "Kelimeler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:21:26.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Bulmaca.resx",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Bulmaca.resx",
+              "RelativeDocumentMoniker": "Bulmaca.resx",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\Bulmaca.resx",
+              "RelativeToolTip": "Bulmaca.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-31T11:32:36.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Bulmaca.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aysima\\Desktop\\yazilimyapimiprojem\\yazilimyapimiprojem\\Bulmaca.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\yazilimyapimiprojem\\yazilimyapimiprojem\\Bulmaca.Designer.cs",
+              "ToolTip": "C:\\Users\\Aysima\\Desktop\\yazilimyapimiprojem\\yazilimyapimiprojem\\Bulmaca.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\yazilimyapimiprojem\\yazilimyapimiprojem\\Bulmaca.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:30:44.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "c:\\Users\\Aysima\\Desktop\\yazilimYapimiProjeOdevi\\yazilimYapimiProjeOdevi\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\yazilimYapimiProjeOdevi\\yazilimYapimiProjeOdevi\\Form2.cs",
+              "ToolTip": "c:\\Users\\Aysima\\Desktop\\yazilimYapimiProjeOdevi\\yazilimYapimiProjeOdevi\\Form2.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\yazilimYapimiProjeOdevi\\yazilimYapimiProjeOdevi\\Form2.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:01:40.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KayitOl.cs",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\KayitOl.cs",
+              "RelativeDocumentMoniker": "KayitOl.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\KayitOl.cs",
+              "RelativeToolTip": "KayitOl.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:40:57.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KelimeEkle.cs",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\KelimeEkle.cs",
+              "RelativeDocumentMoniker": "KelimeEkle.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\KelimeEkle.cs",
+              "RelativeToolTip": "KelimeEkle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:38:56.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "SecurityHelper.cs",
+              "ToolTip": "C:\\Users\\Aysima\\source\\repos\\YazilimYapimiProjeOdevi\\SecurityHelper.cs",
+              "RelativeToolTip": "SecurityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:30:21.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

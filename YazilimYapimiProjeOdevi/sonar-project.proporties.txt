@@ -1,0 +1,11 @@
+# Required metadata
+sonar.projectKey=aysenurerenm:kelime_ezberleme
+sonar.organization=aysenurerenm-org
+sonar.host.url=https://sonarcloud.io
+
+# Optional
+sonar.projectName=kelime_ezberleme
+sonar.projectVersion=1.0
+
+# Paths
+sonar.sources=.

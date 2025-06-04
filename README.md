@@ -1,4 +1,5 @@
 Proje adı:kelime_ezberleme 
+
 Bu proje, Scrum yöntemiyle geliştirilen bir **kelime ezberleme uygulamasıdır**. Öğrencilerin İngilizce kelimeleri kalıcı şekilde öğrenmesini amaçlar. C# diliyle yazılmıştır ve kullanıcılar kelimeleri ses, resim ve örnek cümlelerle çalışabilir.
 
 
@@ -19,7 +20,6 @@ Bu proje, Scrum yöntemiyle geliştirilen bir **kelime ezberleme uygulamasıdır
 
 -  C# (WinForms)
 -  MSSQL (veritabanı)
--  Entity Framework (isteğe bağlı)
 -  Trello (Scrum yönetimi)
 -  GitHub (versiyon kontrolü)
 -  SonarQube (Kod kalitesi analizi)
@@ -32,7 +32,7 @@ Bu proje, Scrum yöntemiyle geliştirilen bir **kelime ezberleme uygulamasıdır
 1. Her kelimenin doğru bilindiği sefer sayısı izlenir.
 2. Üst üste 6 doğru yanıt verilmediyse sayaç sıfırlanır.
 3. Her doğru bilinen kelime, 6 farklı tarihte tekrar sorulur.
-4. 6. tekrar da doğruysa **“bilinen kelime” havuzuna taşınır**.
+4. Altı tekrar da doğruysa **“bilinen kelime” havuzuna taşınır**.
 
 ---
 

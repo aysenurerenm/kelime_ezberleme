@@ -2,7 +2,7 @@ Proje adı:kelime_ezberleme
 Bu proje, Scrum yöntemiyle geliştirilen bir **kelime ezberleme uygulamasıdır**. Öğrencilerin İngilizce kelimeleri kalıcı şekilde öğrenmesini amaçlar. C# diliyle yazılmıştır ve kullanıcılar kelimeleri ses, resim ve örnek cümlelerle çalışabilir.
 
 
- Proje Özeti
+  Proje Özeti
 
 -  **Tekrar algoritması:** 6 sefer üst üste doğru bilinen kelime ezberlenmiş sayılır.
 -  **Zaman aralıklı tekrar:** 1 gün, 1 hafta, 1 ay, 3 ay, 6 ay, 1 yıl.
